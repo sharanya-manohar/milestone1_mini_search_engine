@@ -7,11 +7,11 @@ The backend mimics the behavior of a basic search engine with support for keywor
 - **Search articles**: Search articles by keywords in the title or content.
 - **Sort results**: Sort search results by relevance (keyword frequency) or date.
 
-Prerequisites:
-1)Node.js: Ensure you have Node.js installed. You can check by running node -v in your terminal.
-2)Text Editor: Use any text editor like Visual Studio Code.
+# Prerequisites:
+- Node.js: Ensure you have Node.js installed. You can check by running node -v in your terminal.
+- Text Editor: Use any text editor like Visual Studio Code.
 
-Steps to Run the Application:
+# Steps to Run the Application:
 1) Initialize npm:
    npm init -y
 2) Install Express:
